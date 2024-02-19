@@ -1,0 +1,14 @@
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\bin\Debug\net8.0\if-else-if.exe
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\bin\Debug\net8.0\if-else-if.deps.json
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\bin\Debug\net8.0\if-else-if.runtimeconfig.json
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\bin\Debug\net8.0\if-else-if.dll
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\bin\Debug\net8.0\if-else-if.pdb
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\obj\Debug\net8.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\obj\Debug\net8.0\if-else-if.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\obj\Debug\net8.0\if-else-if.AssemblyInfo.cs
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\obj\Debug\net8.0\if-else-if.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\obj\Debug\net8.0\if-else-if.dll
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\obj\Debug\net8.0\refint\if-else-if.dll
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\obj\Debug\net8.0\if-else-if.pdb
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\obj\Debug\net8.0\if-else-if.genruntimeconfig.cache
+C:\Users\Omer\Desktop\Projeler\.net\patika\if-else-if\obj\Debug\net8.0\ref\if-else-if.dll
